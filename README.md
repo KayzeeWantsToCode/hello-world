@@ -1,2 +1,2 @@
-# hello-world
+JAVA PROJECTS
 my java projects
